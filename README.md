@@ -58,3 +58,21 @@ Example of issuing a book to a student. The user enters the student's details an
 Name : Manas Ranjan Sahoo<br>
 Email :manasranjansahoo971@gmail.com
 
+# What I am learn
+- C Programming:
+I have learned C programming skills, including data structures, file handling, using standard libraries, and how to make projects using c language.
+
+- File Handling:
+I have learned how to use file handling in C to read from and write to files, and manage information.
+
+- Version Control (GitHub):
+I have acquired knowledge about using Git for version control, including initializing a repository, committing changes, and pushing code to GitHub.
+  
+- Documentation Skills:
+I have practiced creating a clear and informative README file. This involves writing in Markdown, providing usage instructions, explaining the project structure, and more.
+
+- Project Structure:
+I have gained an understanding of organizing code into functions, creating modular structures, and managing multiple files in a project.
+
+- Problem Solving:
+I have likely encountered and resolved issues and errors during the development process, enhancing my problem-solving skills.
