@@ -24,11 +24,11 @@ Compile and run:
 - gcc index.c 
 - Compile the C source code using the GCC compiler.
 
-Usage:
+## Usage:
 
 - Follow the on-screen menu to perform different operations.
-- Usage Examples
-### Adding a book:
+``` Usage Examples```
+#### Adding a book:
 
 1. Add Book<br>
 Enter Book id: 101<br>
@@ -37,7 +37,7 @@ Enter Author Name:S.k Srivastava<br>
 Book Added Successfully!<br>
 Example of adding a book to the library. The user enters the book's ID and author's name.<br>
 
-### Issuing a book:
+#### Issuing a book:
 
 4. Issue Book<br>
 Enter Roll Number: 019<br>
