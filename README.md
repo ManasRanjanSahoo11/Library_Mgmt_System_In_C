@@ -27,7 +27,8 @@ Compile and run:
 ## Usage:
 
 - Follow the on-screen menu to perform different operations.
-``` Usage Examples```
+### Usage Examples:-
+
 #### Adding a book:
 
 1. Add Book<br>
